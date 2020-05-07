@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicios csharp", "Ejercicios csharp\Ejercicios csharp.csproj", "{EDCCC135-D109-4246-823D-40E237BD6376}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjerciciosOscar", "EjerciciosOscar\EjerciciosOscar.csproj", "{8A9BA38C-FFE4-4D7F-A132-F6747F2A891A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EDCCC135-D109-4246-823D-40E237BD6376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EDCCC135-D109-4246-823D-40E237BD6376}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EDCCC135-D109-4246-823D-40E237BD6376}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EDCCC135-D109-4246-823D-40E237BD6376}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A9BA38C-FFE4-4D7F-A132-F6747F2A891A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A9BA38C-FFE4-4D7F-A132-F6747F2A891A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A9BA38C-FFE4-4D7F-A132-F6747F2A891A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A9BA38C-FFE4-4D7F-A132-F6747F2A891A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {AF99A3F6-F57A-414D-8B4A-F99A9F40DEDB}
+		SolutionGuid = {E0ACF9A0-FF6E-47B9-BF38-C0CB91BE74C8}
 	EndGlobalSection
 EndGlobal
